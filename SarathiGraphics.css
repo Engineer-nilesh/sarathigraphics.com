@@ -70,15 +70,16 @@
         
         section.copy {
             padding-top: 15px;
-            padding-bottom: 15px;
+            padding-bottom: 10px;
             background-color: black;
             color: white;
-            font-size: 14px;
+            font-size: 12px;
             text-align: center;
             font-style: italic;
-            line-height: 1.3em
+            line-height: 0.7em
         }
         
         section.copy p {
             margin: 0px;
+            font-size: 10px;
         }
