@@ -1,2 +1,2 @@
 # sarathigraphics.com
-My Static Website
+Graphics Designer Site
